@@ -1,0 +1,102 @@
+
+section { 
+  background: linear-gradient(to bottom, #020240, #5050FA);
+}
+
+.video {
+  padding-top: 20px;
+  padding-bottom: 60%;
+  text-align: center;
+}
+
+.unad {
+  background-image: url('../img/u.jpg');
+  background-size: cover;
+}
+
+img.left {
+  float: left;
+  padding-right: 5px;
+  max-width: 40%;
+  max-height: 40%;
+}
+
+img.right {
+  float: right;
+  padding-left: 4px;
+  max-width: 40%;
+  max-height: 40%;
+  background: transparent;
+}
+
+
+.logo {
+    background: transparent url(../img/logo.png) no-repeat;
+    float: left;
+}
+
+.logo {
+  display: block;
+  text-indent: -999px;
+  height: 85px; 
+  width: 180px;
+  margin: none;
+}
+
+.title {
+  font-size: medium;
+  color:white;
+  font-style: oblique;
+  text-shadow: 4px 4px 4px #06052e;
+  padding-bottom: 20px;
+}
+
+.timeline {
+  float: right;
+  width: 28%;
+  padding-right: 2%;
+}
+
+.profiles {
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+.init {
+  padding-top: 20px;
+  float: left;
+  width: 65%;
+  padding-left: 5%;
+}
+ 
+.subtitle {
+  padding-top: 20px;
+  color:white;
+  text-shadow: 4px 4px 4px #06052e;
+  text-align: left;
+  font-style: oblique;
+}
+
+.text {  
+  text-emphasis-color: #555;
+  padding-top: 20;
+  font-size: 30px;
+  color:white;
+  font-style: oblique;
+  font-weight: bold;
+  text-shadow: 4px 4px 4px #06052e;
+  text-align: left;
+  line-height: 50px;
+}
+
+.text-1 {
+  text-emphasis-color: #555;
+  padding-top: 10px;
+  font-size: 20px;
+  color:white;
+  font-style: oblique;
+  font-weight: bold;
+  text-shadow: 4px 4px 4px #06052e;
+  text-align: left;
+  line-height: 50px;
+}
